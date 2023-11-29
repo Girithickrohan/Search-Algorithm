@@ -97,11 +97,11 @@ else:
 ```
 ## Sample Input and Output
 
-![image]()
+![image](https://raw.githubusercontent.com/Girithickrohan/Search-Algorithm/main/Out1.png)
 
-![image]()
+![image](https://raw.githubusercontent.com/Girithickrohan/Search-Algorithm/main/Out2.png)
 
-1[image]()
+1[image](https://raw.githubusercontent.com/Girithickrohan/Search-Algorithm/main/Out3.png)
 
 
 ## Result

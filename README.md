@@ -101,7 +101,7 @@ else:
 
 ![image](https://raw.githubusercontent.com/Girithickrohan/Search-Algorithm/main/Out2.png)
 
-1[image](https://raw.githubusercontent.com/Girithickrohan/Search-Algorithm/main/Out3.png)
+![image](https://raw.githubusercontent.com/Girithickrohan/Search-Algorithm/main/Out3.png)
 
 
 ## Result
